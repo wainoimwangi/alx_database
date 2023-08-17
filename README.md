@@ -1,6 +1,6 @@
-# SQL_introduction Repository
+# Database Management Repository
 
-SQL stands for Structured Query Language. It is a domain-specific language used for managing and manipulating relational databases. SQL allows you to define, manipulate, query, and control data stored in a structured manner within relational database management systems (RDBMS).
+This repository contains solutions for ALX database tasks using MySQL. The tasks cover various aspects of working with databases, including creating, querying, and managing data using the MySQL database management system.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ SQL stands for Structured Query Language. It is a domain-specific language used 
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/wainoimwangi/alx_database.git`
-2. Navigate to the project directory: `cd alx_database` `cd SQL_introduction`
+2. Navigate to the project directory: `cd alx_database`
 
 ## Usage
 
